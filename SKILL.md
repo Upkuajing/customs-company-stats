@@ -1,7 +1,7 @@
 ---
 name: customs-company-stats
-description: Official skill for upkuajing (跨境魔方). Query company basic trade statistics (公司贸易基础统计) from customs data. Get trade count, weight, quantity, amount, and partner count for a company.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📊","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Fetch aggregated customs‑trade stats by company ID across 220+ regions. Assess business scale and partners for supplier screening and trade‑intelligence research.\n\nTrigger: customs trade statistics lookup, company import‑export analysis, overseas partner network assessment, global trade intelligence, supplier vetting"
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📊","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Customs Company Basic Trade Statistics
